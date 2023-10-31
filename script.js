@@ -1,7 +1,7 @@
 const textArea = document.querySelector(".text-area");//con el querySelector voy a capturar el .textarea del html , con eso voy a estar almacenando lo que voy a escribir en el textarea
 const mensaje = document.querySelector(".mensaje");//aca es donde va a aparecer el texto encriptado
 const boton = documet.querySelector(".boton")
-const campoPegar = document.querySelector(".btn-pegar")
+
 //La letra "e" es convertida para "enter"
 //La letra "i" es convertida para "imes"
 //La letra "a" es convertida para "ai"
